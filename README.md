@@ -1,5 +1,5 @@
 # Ejercicios-para-logica
-### Si tenes ganas de estimular tu lógica, te invito a resolver los siguientes algoritmos antes de mirar mis soluciones propuestas 🧠! :
+### Si tenes ganas de estimular tu lógica, te invito a resolver los siguientes algoritmos (sin usar frameworks!) antes de mirar mis soluciones propuestas 🧠! :
 
 * Mostrar el contenido de un array de caracteres recibido como parámetro sin valores repetidos.
 
